@@ -1,0 +1,11 @@
+{
+  "name": "hostmaker",
+  "version": "1.0.0",
+  "description": "simple hostmaker with fake ips",
+  "main": "./src/main.js",
+  "scripts": {
+    "test": "."
+  },
+  "author": "galvin",
+  "license": "ISC"
+}
