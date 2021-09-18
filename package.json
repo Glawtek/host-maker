@@ -4,7 +4,7 @@
   "description": "simple hostmaker with fake ips",
   "main": "./src/main.js",
   "scripts": {
-    "test": "."
+    "test": "hostmaker"
   },
   "author": "galvin",
   "license": "ISC"
