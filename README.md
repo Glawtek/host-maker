@@ -2,4 +2,4 @@
 Growtopia host maker with random fake ips
 
 # How to use?
-no requirement needed, just **node hostmaker `gtps ip` `fake ip you want to generate`
+no requirement needed, just execute on cmd node hostmaker `xx` `xxx`. ``xx`` means your server ip address and `xxx` means how much fake ips you want to generate. File size (hosts size) depends on how much fake ip that have you generate, more fake ip you generate  will increase the file size.
