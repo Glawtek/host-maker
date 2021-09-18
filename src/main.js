@@ -10,7 +10,7 @@ function randomNum(min, max) {
 }
 
 if (!cmd1) {
-    return console.log(`Usage: node . 127.0.0.1 2000`);
+    return console.log(`Usage: node hostmaker 127.0.0.1 2000`);
 } else if (cmd1 < 1) {
     return console.log("What would you use this instead make your own hosts?");
 } else if (!cmd2) {
